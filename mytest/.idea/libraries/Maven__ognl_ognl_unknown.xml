@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ognl:ognl:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/unknown/ognl-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/unknown/ognl-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/unknown/ognl-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
